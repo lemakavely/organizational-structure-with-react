@@ -1,12 +1,22 @@
-# this is a web app made using react and typescript
+# THIS IS A COMPLETE WEB APP MADE USING REACT JS AND TYPESCRIPT
 
 to test and implement clone it and run npm install then npm start then you will see something like this below
 
 
-![image_2022-12-22_23-13-48](https://user-images.githubusercontent.com/81468057/209222444-6915ee33-a04f-4717-ba9c-6c9f6247920a.png)
+most of the ui and lojic is done almost 75% of the job is done and what is left is....
+
+.adding employee adding and updating functionality
+.addisng some routing
+.connecting with firebase api
+
+
+# YOU CAN SEE THE UI THROUGH THE ILLUSTRATION BELOW
 
 
 ![image_2022-12-22_23-13-59](https://user-images.githubusercontent.com/81468057/209222209-453b5280-207e-4804-bd93-4ca682f3f6cd.png)
+
+
+![image_2022-12-22_23-13-48](https://user-images.githubusercontent.com/81468057/209222444-6915ee33-a04f-4717-ba9c-6c9f6247920a.png)
 
 
 
