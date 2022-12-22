@@ -3,11 +3,9 @@
 to test and implement clone it and run npm install then npm start then you will see something like this below
 
 
-most of the ui and lojic is done almost 75% of the job is done and what is left is....
+most of the ui and logic is done almost 75% of the job is done and what is left is....
 
-.adding employee adding and updating functionality
-.addisng some routing
-.connecting with firebase api
+.adding employee adding and updating functionality, addisng some routing and connecting with firebase api
 
 
 # YOU CAN SEE THE UI THROUGH THE ILLUSTRATION BELOW
